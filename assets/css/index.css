@@ -1,0 +1,70 @@
+
+div {
+    display: inline-block;
+    float: left;
+    border: 3px solid white;
+    padding: 2.5px;
+    width: 7%;
+    border-radius: 1em;
+    text-align: center;
+    margin: 2.27px;
+    color:white;
+
+}
+
+#container {
+    border: 3px solid blue;
+    display: inline-block;
+    float:left;
+    width: 500px;
+    height: 600px;
+    margin: 12px;
+    background: url("../img/Corey-Arnold-The-North-Sea.jpg");
+    background-size: 100% 100%;
+    padding-top: 50px;
+    box-shadow: 30px 30px 15px black;
+}
+
+section {
+    border: 3px solid blue;
+    border-radius: 1em;
+    margin:12px;
+    display: inline-block;
+    float:left;
+    width: 350px;
+    height: 350px;
+    background-color: #0ea0eb;
+    box-shadow: 30px 30px 15px;
+}
+
+#name {
+    display: block;
+    text-align: center;
+    font-size: 2em;
+    font-family: -webkit-pictograph;
+    color: white;
+    box-shadow: 10px 20px 29px black;
+    margin-bottom: 30px;
+}
+
+#shots , #sunkship , #finalresult ,#reload{
+    display: block;
+    font-size: 2em;
+    font-family: -webkit-pictograph;
+    color: white;
+    box-shadow: 10px 20px 29px black;
+    margin-bottom: 30px;
+
+}
+#finalresult {
+    text-align: center;
+    box-shadow: 10px 20px 29px black;
+}
+
+#reload {
+    margin: 70px auto;
+    color:black;
+    border-radius: 70px;
+    box-shadow: 10px 20px 29px black;
+    outline:none;
+}
