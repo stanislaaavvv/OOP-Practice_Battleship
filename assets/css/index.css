@@ -1,10 +1,12 @@
-
+body {
+    background-color: aqua;
+}
 div {
     display: inline-block;
     float: left;
     border: 3px solid white;
     padding: 2.5px;
-    width: 7%;
+    width: 6.4%;
     border-radius: 1em;
     text-align: center;
     margin: 2.27px;
@@ -15,14 +17,15 @@ div {
 #container {
     border: 3px solid blue;
     display: inline-block;
-    float:left;
+    float: left;
     width: 500px;
     height: 600px;
-    margin: 12px;
     background: url("../img/Corey-Arnold-The-North-Sea.jpg");
     background-size: 100% 100%;
-    padding-top: 50px;
+    padding-top: 60px;
+    padding-left: 20px;
     box-shadow: 30px 30px 15px black;
+    margin: 12px;
 }
 
 section {
